@@ -1,0 +1,9 @@
+.card {
+    background-color: #333333;
+    color: rgb(244, 243, 243);
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #f9f8f8;
+}
