@@ -12,7 +12,7 @@ let tasks = [
     completed: false 
   },
   { id: 2,
-    title: "Do a quick 5-minute stretching or warm-up", 
+    title: "Do a quick 2-minute stretching or warm-up", 
     completed: true 
   },
   { id: 3, 
