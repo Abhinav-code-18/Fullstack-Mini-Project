@@ -82,7 +82,8 @@ app.get('/api/ai/suggestions', (req, res) => {
     "Plan your tasks for tomorrow",
     "Drink a glass of water and take a short break",
     "Clean up unnecessary files from your laptop or phone",
-    "Go for a 5-minute walk to refresh your mind"
+    "Go for a 5-minute walk to refresh your mind",
+    "Wake up and do some light stretching",
     ]
   });
 });
